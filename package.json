@@ -1,0 +1,13 @@
+{
+    "name": "docker-rn",
+    "version": "1.0.0",
+    "description": "A React Native development environment using Docker.",
+    "scripts": {
+        "react-native-init": "react-native init"
+    },
+    "dependencies": {
+        "react-native-cli": "2.0.1"
+    },
+    "author": "Mauro Moura",
+    "license": "MIT"
+}
